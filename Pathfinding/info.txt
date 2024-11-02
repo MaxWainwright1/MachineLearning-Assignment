@@ -1,0 +1,17 @@
+A* Algorithm
+------------
+Informed Search
+
+f(n) = g(n) + h(n)
+
+g(n) = cost of path from start cell to n (n being the number of steps)
+h(n) = heuristic function for estimating cheapest path from n to goal cell
+
+Use a queue to get the order of path in same way it was achieved
+
+
+pseudocode
+----------
+
+open = queue
+g = 
